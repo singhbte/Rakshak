@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #fff6f1;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+h1 {
+  color: #ff4081;
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+}
+
+.animation-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.rakhi-btn {
+  padding: 12px 20px;
+  background-color: #ff4081;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.rakhi-btn:hover {
+  background-color: #e73370;
+}
